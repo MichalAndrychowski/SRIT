@@ -1,0 +1,22 @@
+# Env / secrets
+.env
+*.env
+!*.env.example
+
+# Keys / certs
+*.key
+*.crt
+*.pem
+*.p12
+
+# Backups
+backups/
+*.tar
+*.gz
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
