@@ -25,7 +25,3 @@ Konfiguracja MISP (SMTP)
 - Autoryzacja: wyłączona (pusta nazwa/hasło)
 - From/Reply‑To: zgodnie z Twoją polityką (np. misp@local.test)
 - Test: wyślij test z panelu MISP i sprawdź UI MailHoga (http://localhost:8025)
-
-Uwagi
-- MailHog to narzędzie do DEV/PoC. Do środowisk produkcyjnych użyj firmowego SMTP (TLS, uwierzytelnienie, polityki).
-- Nie publikuj sekretów/konfiguracji produkcyjnych w repo ani screenshotach.
