@@ -59,3 +59,11 @@ Watch the agents intercept the network connection, kill the process, and automat
 
 👨‍💻 Author
 Michał Andrychowski BSc in Computer Science / Cybersecurity Enthusiast
+
+## ⚠️ Disclaimer & License
+
+This project was developed strictly for **educational and academic purposes** as part of an engineering thesis. 
+It is a Proof-of-Concept (PoC) environment designed to simulate cyber threats and test detection mechanisms. 
+
+The scripts (including those generated with the assistance of AI/GitHub Copilot) and configurations provided here are **not intended for commercial use or production environments** without prior security auditing and refactoring. Use at your own risk.
+
